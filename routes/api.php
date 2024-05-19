@@ -2,9 +2,9 @@
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\Api\GeojsonController;
-use App\Http\Controllers\Api\BatasDesaController;
-use App\Http\Controllers\Api\KecamatanController;
+use App\Http\Controllers\API\GeojsonController;
+use App\Http\Controllers\API\BatasDesaController;
+use App\Http\Controllers\API\KecamatanController;
 
 
 /*
